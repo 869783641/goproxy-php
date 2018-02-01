@@ -1,2 +1,2 @@
 # goproxy-php
-A test for goproxy
+A test for goproxy.
